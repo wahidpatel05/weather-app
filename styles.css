@@ -8,6 +8,9 @@ body {
   align-items: start;
   min-height: 100vh;
   padding: 40px;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 .container {
@@ -63,7 +66,9 @@ h1 {
 
 .hidden {
   display: none;
+  
 }
+
 
 #error-message {
   color: #ff4d6d;
